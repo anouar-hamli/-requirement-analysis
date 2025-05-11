@@ -97,5 +97,72 @@ Non-functional requirements define the **quality attributes, performance metrics
 - The user interface shall be accessible and comply with WCAG 2.1 guidelines.
 
 ---
+## Use Case Diagrams
+
+A **Use Case Diagram** is a type of behavioral UML diagram that visually represents the interactions between users (called **actors**) and the system. It outlines what the system does from an end-user perspective, focusing on **functionalities (use cases)** rather than implementation details.
+
+### 🔍 Benefits of Use Case Diagrams
+- Provides a clear and simple visualization of user interactions with the system.
+- Helps stakeholders (technical and non-technical) understand system functionality at a glance.
+- Assists in identifying all possible user actions and system responses.
+- Aids in requirement gathering and ensures completeness of features.
+
+### 📌 Use Case Diagram for the Booking Management System
+
+This diagram includes the following two main actors:
+
+- **Customer**: The primary user who interacts with the system to make, cancel, and view bookings. Customers also manage their personal information.
+- **Administrator**: The user who manages the overall system, including room availability, user access, and booking management. Administrators have higher-level access to manage and oversee the system.
+
+---
+
+### **Customer Use Cases**
+
+- **Make Booking**: 
+  - **Description**: The customer selects a room, chooses dates, and creates a booking request.
+  - **Actors Involved**: Customer.
+  - **Preconditions**: The customer is logged in and has selected an available room.
+  - **Postconditions**: A booking is created and the customer receives a confirmation.
+
+- **Cancel Booking**: 
+  - **Description**: The customer can cancel a previously made booking.
+  - **Actors Involved**: Customer.
+  - **Preconditions**: The customer is logged in and has an existing booking.
+  - **Postconditions**: The booking is canceled, and the room availability is updated.
+
+- **View Bookings**:
+  - **Description**: The customer can view all the bookings they have made, including the booking details and status.
+  - **Actors Involved**: Customer.
+  - **Preconditions**: The customer is logged in.
+  - **Postconditions**: The customer sees a list of current and past bookings.
+
+---
+
+### **Administrator Use Cases**
+
+- **Manage Availability**: 
+  - **Description**: The administrator can add, remove, or modify room availability, allowing for booking management.
+  - **Actors Involved**: Administrator.
+  - **Preconditions**: The administrator is logged in.
+  - **Postconditions**: Room availability is updated, and customers can book or cancel based on the new availability.
+
+- **Authenticate User**: 
+  - **Description**: The administrator ensures that both customers and administrators can securely log in to access their roles.
+  - **Actors Involved**: Administrator, Customer.
+  - **Preconditions**: The user provides correct login credentials.
+  - **Postconditions**: The user is authenticated and granted access based on their role.
+
+- **View All Bookings**: 
+  - **Description**: The administrator can view all bookings made by customers, including details such as customer information, room reserved, and status.
+  - **Actors Involved**: Administrator.
+  - **Preconditions**: The administrator is logged in.
+  - **Postconditions**: The administrator has access to a list of all bookings for management and auditing.
+
+---
+
+![Image](https://github.com/user-attachments/assets/5ca1833b-06cf-4c80-a600-7c1279438c4a)
+
+---
+
 
 
