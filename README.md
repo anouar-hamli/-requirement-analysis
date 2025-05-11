@@ -41,3 +41,31 @@ By identifying the exact needs and scope at the beginning, teams can avoid unnec
 When software is built based on well-analyzed and validated requirements, it is more likely to meet user expectations and function as intended. This leads to higher customer satisfaction and a better reputation for the development team or company.
 
 ---
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves a series of structured activities aimed at understanding what the software system must achieve. Below are the five key activities that form the backbone of this process:
+
+- **Requirement Gathering**
+  - Involves collecting high-level information from stakeholders about the system’s goals, features, constraints, and expectations.
+  - Sources include business documents, market research, competitor analysis, and existing systems.
+
+- **Requirement Elicitation**
+  - Focuses on uncovering the real needs of users through direct interaction.
+  - Techniques include interviews, surveys, brainstorming sessions, observation, and use case analysis.
+
+- **Requirement Documentation**
+  - All gathered and elicited requirements are formally documented to serve as a reference for the development team.
+  - Common formats include Software Requirements Specification (SRS), user stories, and use case documents.
+
+- **Requirement Analysis and Modeling**
+  - Involves evaluating the collected requirements for feasibility, consistency, and completeness.
+  - May include creating models such as data flow diagrams (DFDs), entity-relationship diagrams (ERDs), or UML diagrams to visualize and better understand requirements.
+
+- **Requirement Validation**
+  - Ensures that the documented requirements are correct, complete, and aligned with stakeholder needs.
+  - This may involve walkthroughs, inspections, and formal reviews with stakeholders to confirm accuracy and clarity.
+
+---
+
+
