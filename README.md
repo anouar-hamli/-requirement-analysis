@@ -160,7 +160,7 @@ This diagram includes the following two main actors:
 
 ---
 
-![Image](C:\Users\anwar\Downloads\alx f\alx-booking-uc.png)
+[![Image]([C:\Users\anwar\Downloads\alx f\alx-booking-uc.png](https://github.com/anouar-hamli/requirement-analysis/issues/2#issue-3055236983))](https://github.com/anouar-hamli/requirement-analysis/issues/2#issue-3055236983)
 
 ---
 
