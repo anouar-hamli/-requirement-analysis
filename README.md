@@ -69,3 +69,33 @@ The Requirement Analysis phase involves a series of structured activities aimed 
 ---
 
 
+
+## Types of Requirements
+
+In software engineering, requirements are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Understanding the distinction between these helps in accurately capturing what the system should do and how well it should perform.
+
+### Functional Requirements
+
+Functional requirements describe the **specific behaviors, features, and functions** of a system. They define what the system should do in response to various inputs or interactions.
+
+#### Example Functional Requirements for a Booking Management Project:
+- The system shall allow users to create, view, update, and cancel bookings.
+- The system shall send confirmation emails to users after successful booking.
+- The system shall allow administrators to manage room availability.
+- The system shall provide a search function for users to find available bookings by date or location.
+- The system shall support user authentication and role-based access (e.g., admin vs customer).
+
+### Non-functional Requirements
+
+Non-functional requirements define the **quality attributes, performance metrics, and constraints** of a system. They describe **how** the system performs its functions rather than what it does.
+
+#### Example Non-functional Requirements for a Booking Management Project:
+- The system shall respond to booking requests within 2 seconds under normal load.
+- The system shall be available 99.9% of the time (high availability).
+- The system shall encrypt all sensitive user data using SSL.
+- The system shall support up to 1,000 concurrent users without performance degradation.
+- The user interface shall be accessible and comply with WCAG 2.1 guidelines.
+
+---
+
+
