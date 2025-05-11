@@ -160,7 +160,7 @@ This diagram includes the following two main actors:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/587bb77d-c9f3-40d4-ad12-01ef63c6e848)
+![Image](https://github.com/user-attachments/assets/363e4150-6edb-4654-92ad-9d1db574388c)
 
 ---
 
