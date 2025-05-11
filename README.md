@@ -160,9 +160,19 @@ This diagram includes the following two main actors:
 
 ---
 
-[![Image]([C:\Users\anwar\Downloads\alx f\alx-booking-uc.png](https://github.com/anouar-hamli/requirement-analysis/issues/2#issue-3055236983))](https://github.com/anouar-hamli/requirement-analysis/issues/2#issue-3055236983)
+
+![Image](C:\Users\anwar\Downloads\alx f\alx-booking-uc.png)
 
 ---
-![Image](C:\Users\anwar\Downloads\alx f\alx-booking-uc.png)
+## Acceptance Criteria
+
+Acceptance criteria are essential components in requirement analysis that define the conditions or standards that a software product must meet to be considered complete. These criteria outline the specific requirements that a feature must fulfill from the user's perspective. By having clear and measurable acceptance criteria, teams can ensure that the feature is built to meet expectations and be fully functional.
+
+### Importance of Acceptance Criteria in Requirement Analysis:
+- **Clear Expectations:** Acceptance criteria help in setting clear expectations for the team, reducing ambiguity and confusion about what is to be built.
+- **Testability:** They provide a basis for creating test cases, ensuring that the feature can be validated through testing.
+- **Stakeholder Alignment:** Helps in aligning the team and stakeholders on the scope and functionality of the feature.
+- **Quality Assurance:** They help QA teams in verifying the completion of a feature according to the specified requirements.
+- **Scope Management:** Acceptance criteria help in defining the scope of a feature, preventing scope creep and ensuring that only the necessary features are developed.
 
 
